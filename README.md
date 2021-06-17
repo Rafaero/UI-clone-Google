@@ -1,6 +1,6 @@
 # UI-clone-Google
 
-technologies: Html, Css
+technologies: Html, Css.
 
 #Preview
 
